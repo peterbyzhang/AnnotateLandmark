@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<ft>
+  <n_connections>1</n_connections>
+  <connections_0_0>0</connections_0_0>
+  <connections_0_1>3</connections_0_1>
+  <n_symmetry>5</n_symmetry>
+  <symmetry_0>0</symmetry_0>
+  <symmetry_1>2</symmetry_1>
+  <symmetry_2>1</symmetry_2>
+  <symmetry_3>3</symmetry_3>
+  <symmetry_4>4</symmetry_4>
+  <n_images>6</n_images>
+  <image_0>"000.png"</image_0>
+  <image_1>"001.png"</image_1>
+  <image_2>"002.png"</image_2>
+  <image_3>"003.png"</image_3>
+  <image_4>"004.png"</image_4>
+  <image_5>"005.png"</image_5>
+  <shapes type_id="opencv-matrix">
+    <rows>10</rows>
+    <cols>6</cols>
+    <dt>f</dt>
+    <data>
+      241. 213. 241. 241. 241. 241. 114. 136. 114. 114. 114. 114. 211.
+      211. 211. 211. 211. 211. 195. 195. 195. 195. 195. 195. 181. 181.
+      181. 181. 181. 181. 273. 273. 273. 273. 273. 273. 164. 210. 164.
+      164. 164. 164. 94. 84. 94. 94. 94. 94. 160. 160. 160. 160. 160.
+      160. 378. 378. 378. 378. 378. 378.</data></shapes></ft>
+</opencv_storage>

@@ -1,0 +1,14 @@
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.log
+*.user
+*.filters
+*.iobj
+*.ipdb
+*.idb
+*.db
+*.opendb
+*.suo
+*.exe
