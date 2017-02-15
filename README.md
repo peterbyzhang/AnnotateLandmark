@@ -13,7 +13,7 @@
      The dataset folder contains an example dataset from dlib, and an exe file prebuilt for Windows 10 X64 PC. 
      You may test the program with the following command:
 
-     .\dataset> Annotate training_with_face_landmarks
+     .\dataset> Annotate training_with_face_landmarks.xml
 
      The program will overwrite the xml, so please backup before running the program.
 
